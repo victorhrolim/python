@@ -4,7 +4,7 @@ conn = sqlite3.connect("mydatabase.db")
 
 conn.execute(""" 
 UPDATE clientes
-SET telefone = '(81) 9999-9998'
+SET telefone = '(81) 99999-9999'
 WHERE id = 1
 """)
 
