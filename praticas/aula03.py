@@ -75,9 +75,9 @@ else:
 print(f"placar do jogo: Náutico {gols_nau} X {gols_san} Santa")
 
 if gols_san > gols_nau:
-    print("náutico ganhou")
-elif gols_nau > gols_san:
     print("santa ganhou")
+elif gols_nau > gols_san:
+    print("náutico ganhou")
 else:
     print("empate")
 
