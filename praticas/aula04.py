@@ -29,7 +29,8 @@ print(lista)
 
 # -------------------------------------------------------------
 
-# adicionar itens: .append() e .insert()
+# adicionar itens: final=.append() e começo=.insert(posição,)
+# remover itens: .remove() e .pop(posição)
 # insert fura a fila
 # append vai pro final da fila
 
